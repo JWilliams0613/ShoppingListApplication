@@ -1,0 +1,3 @@
+apples|12|1.75
+banannas|6|1.25
+shirt|1|5.00
